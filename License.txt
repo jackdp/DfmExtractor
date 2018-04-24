@@ -1,0 +1,10 @@
+﻿This software is copyrighted by Pazera Jacek company ("Producer") and is protected by copyright laws and international treaty provisions.
+
+This software is provided "as-is" and without warranty of any kind, express, implied or otherwise, including without limitation, any warranty of merchantability or fitness for a particular purpose. 
+
+Permission is granted to anyone to use this software for any purpose, including commercial use, but this software can NOT be sold or modified without written permission of the Producer.
+
+This notice may not be removed or altered from any distribution.
+
+
+Copyright (C) 2010-2018 Pazera Jacek. All rights reserved.
