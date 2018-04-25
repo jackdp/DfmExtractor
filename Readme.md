@@ -114,7 +114,7 @@ File saved: FormToolsInfo.lfm
 ```
 </li>
 <li>
-Save form FormMain from the <i>AudioExtractor64.exe</i> file to <code><b>main form.dfm</b></code> file:
+Save form <code><b>FormMain</b></code> from the <i>AudioExtractor64.exe</i> file to <code><b>main form.dfm</b></code> file:
 
   `DfmExtractor.exe -i AudioExtractor64.exe -n FormMain -o "main form.dfm"`
   
