@@ -10,18 +10,18 @@
 * [Changelog / Releases](#changelog--releases)
 * [Note](#note)
 
-# Overview
+## Overview
 
 DfmExtractor is a small command line utility which allows you to extract DFM, LFM and FRM forms from executable files compiled by Delphi, Lazarus and CodeTyphon.
 
-# Download
+## Download
 
 Source: https://github.com/jackdp/DfmExtractor
 
 Binary (Windows 32-bit): http://www.pazera-software.com/products/dfm-extractor/
 
 
-# Usage
+## Usage
 
 Usage: **DfmExtractor.exe** `-i=FILE [-n=NAME] [-idx=X] [-o=FILE] [-e=EXT] [-p=STR] [-a] [-d=DIR]
 [-l] [-h] [-V] [--home]`
@@ -29,7 +29,7 @@ Usage: **DfmExtractor.exe** `-i=FILE [-n=NAME] [-idx=X] [-o=FILE] [-e=EXT] [-p=S
 Mandatory arguments to long options are mandatory for short options too.  
 Options are **case-sensitive**. Options in square brackets are optional.  
 
-## Input / Output options
+### Input / Output options
 
 **`-i`, `--input-file=FILE`**  
 An executable file containing Delphi, Lazarus or CodeTyphon forms (DFM, LFM, FRM).
@@ -58,7 +58,7 @@ Output directory (for the `-a` option).
 **`-l`, `--list`**  
 Displays a list of all forms in the given input file.
 
-## Information
+### Information
 
 **`-h`, `--help`**  
 Show help.
@@ -69,7 +69,7 @@ Show application version.
 **`--home`**  
 Opens program homepage in the default browser.
 
-# Examples
+## Examples
 <ol>
 <li>
 List all forms in the file <i>AudioExtractor64.exe</i>:
@@ -134,7 +134,7 @@ Result:
 
 </ol>
 
-# Compilation
+## Compilation
 
 > Tested on CodeTyphon 6.40 with FPC 3.1.1 and Laraus 1.9.0 (trunk version) with FPC 3.1.1
 
@@ -154,7 +154,7 @@ Choose: `Release Win32` or `Debug Win32`.
 1. Build project (menu `Run->Build`).
 
 
-# Changelog / Releases
+## Changelog / Releases
 
 **Version 1.1** (2018.02.28)
 - Project ported from Delphi to Lazarus/CodeTyphon.
@@ -164,7 +164,7 @@ Choose: `Release Win32` or `Debug Win32`.
 **Version 1.0** (2018.01.11)  
 Initial release.
 
-# Note
+## Note
 
 This program was made for my private use, but it may also be useful to someone.
 
